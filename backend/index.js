@@ -18,11 +18,6 @@ const persons = {
       "number": "39-23-6423122",
       "id": 4
     },
-    {
-      "name": "Cindy Zhang",
-      "number": "123",
-      "id": 5
-    }
   ]
 }.persons
 
